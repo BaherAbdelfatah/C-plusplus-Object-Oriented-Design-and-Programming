@@ -1,0 +1,14 @@
+Common things :-
+    1) Center Coordinates
+    2) Color
+    3) Draw Method
+Special in each of them :-
+    Rectangle :-
+        1) Length, width
+        2) drawing in Draw Method
+    Circle :-
+        1) Radius
+        2) drawing in Draw Method
+    Triangle :-
+        1) Angles
+        2) drawing in Draw Method

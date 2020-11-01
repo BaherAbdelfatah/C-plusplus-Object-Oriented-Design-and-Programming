@@ -1,0 +1,27 @@
+A better Design would be :-
+class DateTime {
+    Date date;
+    Time time;
+public:
+    DateTime(Date date, Time time)
+    {
+        this->date = date;
+        this->time = time;
+    }
+    
+     DateTime(int day, int month, int year, int hour, int minute, int second)
+    {
+        this->date = Date(year,month,day);
+        this->time = Time(hour,minute,second);
+    }
+
+	Date getDate()
+	{
+		return date;
+	}
+
+	Time getTime()
+	{
+		return time;
+	}
+};

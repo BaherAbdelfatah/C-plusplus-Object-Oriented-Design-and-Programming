@@ -1,0 +1,1 @@
+The good in hiding things from a user is to make things easier without overwhelming users with details that is not supposed for him to know about.

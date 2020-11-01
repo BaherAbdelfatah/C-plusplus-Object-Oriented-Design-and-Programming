@@ -1,0 +1,7 @@
+1)rectangle_width is not relevant for a person.
+2)Only members : name, address, mobile, birth_of_date are relevant for a  bank customer.
+3)birth_of_date should be of type Date.
+4)2+ missing critical data members :-
+string bank_account;
+string bank_id;
+int bank_credit;

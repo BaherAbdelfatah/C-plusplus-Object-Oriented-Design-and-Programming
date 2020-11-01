@@ -1,0 +1,7 @@
+1) 
+    Method 1 :- Using the formula 1+ 2+ ... + n = n(n+1) / 2.
+    Method 2 :- Using for loop adding by initializing sum variable with zero then add iterator to the sum.
+2)
+    Both function to fill color in rectangle and to read image from device should behave similarily for cross-platform applications.
+    If code in designed with OOP in mind we just need to modify functions code without impacting other functions or classes.
+    
